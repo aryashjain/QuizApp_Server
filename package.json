@@ -10,6 +10,9 @@
   },
   "author": "Aryash Jain, Shivam Jain, Anurag Mishra",
   "license": "ISC",
+  "engines": {
+    "node": ">=14"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
